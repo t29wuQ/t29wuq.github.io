@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NagiLog</title>
-    <link>https://www.t29wuq.xyz/</link>
-    <description>Recent content on NagiLog</description>
+    <title>Posts on NagiLog</title>
+    <link>https://www.t29wuq.xyz/post/</link>
+    <description>Recent content in Posts on NagiLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 28 Oct 2020 23:51:29 +0900</lastBuildDate>
     
-	<atom:link href="https://www.t29wuq.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.t29wuq.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <description>HelloWorld 今日から毎日書きます(書くとは言っていない)
 このページはHugoで作りました.
 作り方はあちこちに散乱してるので書かないです.</description>
-    </item>
-    
-    <item>
-      <title>$whoami</title>
-      <link>https://www.t29wuq.xyz/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.t29wuq.xyz/page/about/</guid>
-      <description>Kodai Tsukimoto 近畿大学理工学部情報学科B4 ネットワーク研究室</description>
     </item>
     
   </channel>
