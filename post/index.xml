@@ -5,10 +5,19 @@
     <link>https://www.t29wuq.xyz/post/</link>
     <description>Recent content in Posts on NagiLog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Nov 2020 23:19:28 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 23:46:52 +0900</lastBuildDate>
     
 	<atom:link href="https://www.t29wuq.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020-11-14のNagiLog</title>
+      <link>https://www.t29wuq.xyz/post/2020-11-14-nagilog/</link>
+      <pubDate>Sat, 14 Nov 2020 23:46:52 +0900</pubDate>
+      
+      <guid>https://www.t29wuq.xyz/post/2020-11-14-nagilog/</guid>
+      <description>https://github.com/t29wuQ/nagicc の単項&amp;amp;と*を実装中 生成したアセンブラでセグフォがでてうまく動かないぴえん </description>
+    </item>
     
     <item>
       <title>2020-11-13のNagiLog</title>
