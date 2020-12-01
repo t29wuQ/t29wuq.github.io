@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.t29wuq.xyz/post/2020-12-01-nagilog/</loc>
+    <lastmod>2020-12-01T23:56:35+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.t29wuq.xyz/post/2020-11-30-nagilog/</loc>
     <lastmod>2020-11-30T23:39:58+09:00</lastmod>
   </url>
@@ -174,7 +179,7 @@
   
   <url>
     <loc>https://www.t29wuq.xyz/</loc>
-    <lastmod>2020-11-30T23:39:58+09:00</lastmod>
+    <lastmod>2020-12-01T23:56:35+09:00</lastmod>
   </url>
   
   <url>
@@ -194,6 +199,12 @@
   </url>
   
   <url>
+    <loc>https://www.t29wuq.xyz/tags/2020-12/</loc>
+    <lastmod>2020-12-01T23:56:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.t29wuq.xyz/categories/</loc>
     <priority>0</priority>
   </url>
@@ -205,7 +216,7 @@
   
   <url>
     <loc>https://www.t29wuq.xyz/post/</loc>
-    <lastmod>2020-11-30T23:39:58+09:00</lastmod>
+    <lastmod>2020-12-01T23:56:35+09:00</lastmod>
     <priority>0</priority>
   </url>
   
