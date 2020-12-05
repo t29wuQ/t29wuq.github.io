@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on NagiLog</title>
     <link>https://www.t29wuq.xyz/page/</link>
     <description>Recent content in Pages on NagiLog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://www.t29wuq.xyz/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.t29wuq.xyz/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>$whoami</title>
       <link>https://www.t29wuq.xyz/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.t29wuq.xyz/page/about/</guid>
-      <description>Kodai Tsukimoto 近畿大学理工学部情報学科B4 ネットワーク研究室</description>
+      <description></description>
     </item>
     
   </channel>
