@@ -5,7 +5,19 @@
     <link>https://www.t29wuq.xyz/tags/2020-12/</link>
     <description>Recent content in 2020-12 on NagiLog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Dec 2020 03:47:20 +0900</lastBuildDate><atom:link href="https://www.t29wuq.xyz/tags/2020-12/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Dec 2020 03:51:35 +0900</lastBuildDate><atom:link href="https://www.t29wuq.xyz/tags/2020-12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020-12-14のNagiLog</title>
+      <link>https://www.t29wuq.xyz/post/2020-12-14-nagilog/</link>
+      <pubDate>Tue, 15 Dec 2020 03:51:35 +0900</pubDate>
+      
+      <guid>https://www.t29wuq.xyz/post/2020-12-14-nagilog/</guid>
+      <description>壊れてたtex環境を戻した
+vscodeの設定貼っとく
+&amp;#34;latex-workshop.view.pdf.viewer&amp;#34;: &amp;#34;tab&amp;#34;, &amp;#34;latex-workshop.latex.autoBuild.run&amp;#34;: &amp;#34;onFileChange&amp;#34;, &amp;#34;latex-workshop.latex.recipes&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;latexmk&amp;#34;] }, { &amp;#34;name&amp;#34;: &amp;#34;latexmk (latexmkrc)&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;latexmk_rconly&amp;#34;] }, { &amp;#34;name&amp;#34;: &amp;#34;latexmk (lualatex)&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;lualatexmk&amp;#34;] }, { &amp;#34;name&amp;#34;: &amp;#34;pdflatex ➞ bibtex ➞ pdflatex × 2&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;pdflatex&amp;#34;, &amp;#34;bibtex&amp;#34;, &amp;#34;pdflatex&amp;#34;, &amp;#34;pdflatex&amp;#34;] } ], &amp;#34;latex-workshop.latex.tools&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-synctex=1&amp;#34;, &amp;#34;-interaction=nonstopmode&amp;#34;, &amp;#34;-file-line-error&amp;#34;, &amp;#34;-pdfdvi&amp;#34;, &amp;#34;%DOC%&amp;#34; ] } ] vscodeはlatexmk使ってるのでそっちの設定も
+#!/usr/bin/env perl $pdf_mode = 3; $latex = &amp;#39;platex -halt-on-error&amp;#39;; $latex_silent = &amp;#39;platex -halt-on-error -interaction=batchmode&amp;#39;; $bibtex = &amp;#39;pbibtex&amp;#39;; $dvipdf = &amp;#39;dvipdfmx %O -o %D %S&amp;#39;; $makeindex = &amp;#39;mendex %O -o %D %S&amp;#39;; </description>
+    </item>
+    
     <item>
       <title>2020-12-13のNagiLog</title>
       <link>https://www.t29wuq.xyz/post/2020-12-13-nagilog/</link>

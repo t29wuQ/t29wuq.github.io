@@ -213,6 +213,93 @@
         <div class="posts-list">
           
             <article class="post-preview">
+    <a href="https://www.t29wuq.xyz/post/2020-12-14-nagilog/">
+        <h2 class="post-title">2020-12-14のNagiLog</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;nagi
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p>壊れてたtex環境を戻した</p>
+<p>vscodeの設定貼っとく</p>
+<div class="highlight"><pre class="chroma"><code class="language-setting.json" data-lang="setting.json"><span class="s2">&#34;latex-workshop.view.pdf.viewer&#34;</span><span class="err">:</span> <span class="s2">&#34;tab&#34;</span><span class="err">,</span>
+    <span class="s2">&#34;latex-workshop.latex.autoBuild.run&#34;</span><span class="err">:</span> <span class="s2">&#34;onFileChange&#34;</span><span class="err">,</span>
+    <span class="s2">&#34;latex-workshop.latex.recipes&#34;</span><span class="err">:</span> <span class="p">[</span>
+        <span class="p">{</span>
+        <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;latexmk&#34;</span><span class="p">,</span>
+        <span class="nt">&#34;tools&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;latexmk&#34;</span><span class="p">]</span>
+        <span class="p">},</span>
+        <span class="p">{</span>
+        <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;latexmk (latexmkrc)&#34;</span><span class="p">,</span>
+        <span class="nt">&#34;tools&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;latexmk_rconly&#34;</span><span class="p">]</span>
+        <span class="p">},</span>
+        <span class="p">{</span>
+        <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;latexmk (lualatex)&#34;</span><span class="p">,</span>
+        <span class="nt">&#34;tools&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;lualatexmk&#34;</span><span class="p">]</span>
+        <span class="p">},</span>
+        <span class="p">{</span>
+        <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;pdflatex ➞ bibtex ➞ pdflatex × 2&#34;</span><span class="p">,</span>
+        <span class="nt">&#34;tools&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;pdflatex&#34;</span><span class="p">,</span> <span class="s2">&#34;bibtex&#34;</span><span class="p">,</span> <span class="s2">&#34;pdflatex&#34;</span><span class="p">,</span> <span class="s2">&#34;pdflatex&#34;</span><span class="p">]</span>
+        <span class="p">}</span>
+    <span class="p">]</span><span class="err">,</span>
+    <span class="s2">&#34;latex-workshop.latex.tools&#34;</span><span class="err">:</span> <span class="p">[</span>
+        <span class="p">{</span>
+        <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;latexmk&#34;</span><span class="p">,</span>
+        <span class="nt">&#34;command&#34;</span><span class="p">:</span> <span class="s2">&#34;latexmk&#34;</span><span class="p">,</span>
+        <span class="nt">&#34;args&#34;</span><span class="p">:</span> <span class="p">[</span>
+            <span class="s2">&#34;-synctex=1&#34;</span><span class="p">,</span>
+            <span class="s2">&#34;-interaction=nonstopmode&#34;</span><span class="p">,</span>
+            <span class="s2">&#34;-file-line-error&#34;</span><span class="p">,</span>
+            <span class="s2">&#34;-pdfdvi&#34;</span><span class="p">,</span>
+            <span class="s2">&#34;%DOC%&#34;</span>
+        <span class="p">]</span>
+        <span class="p">}</span>
+    <span class="p">]</span>
+</code></pre></div><p>vscodeはlatexmk使ってるのでそっちの設定も</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">#!/usr/bin/env perl
+$pdf_mode         = 3;
+$latex            = &#39;platex -halt-on-error&#39;;
+$latex_silent     = &#39;platex -halt-on-error -interaction=batchmode&#39;;
+$bibtex           = &#39;pbibtex&#39;;
+$dvipdf           = &#39;dvipdfmx %O -o %D %S&#39;;
+$makeindex        = &#39;mendex %O -o %D %S&#39;;
+</code></pre></div>
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://www.t29wuq.xyz/tags/2020-12/">2020-12</a>&nbsp;
+        
+        <a href="https://www.t29wuq.xyz/tags/latex/">latex</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+          
+            <article class="post-preview">
     <a href="https://www.t29wuq.xyz/post/2020-12-13-nagilog/">
         <h2 class="post-title">2020-12-13のNagiLog</h2>
         
@@ -596,51 +683,6 @@
         <p>hugoでよさげなもの見つけたのでhp作ってる
 <!-- raw HTML omitted -->
 なんで僕がしてるんだ感がでてきたのである程度で切り上げたい</p>
-
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://www.t29wuq.xyz/tags/2020-12/">2020-12</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://www.t29wuq.xyz/post/2020-12-04-nagilog/">
-        <h2 class="post-title">2020-12-04のNagiLog</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;nagi
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p>wikiから画像落とせなくてぴえん
-<!-- raw HTML omitted -->
-もう素直にログインする</p>
 
         
     </div>
