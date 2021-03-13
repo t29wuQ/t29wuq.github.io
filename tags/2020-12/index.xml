@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020-12 on NagiLog</title>
-    <link>https://www.t29wuq.xyz/tags/2020-12/</link>
+    <link>https://t29wuq.github.io/tags/2020-12/</link>
     <description>Recent content in 2020-12 on NagiLog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Dec 2020 23:04:13 +0900</lastBuildDate><atom:link href="https://www.t29wuq.xyz/tags/2020-12/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 23:04:13 +0900</lastBuildDate><atom:link href="https://t29wuq.github.io/tags/2020-12/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020-12-20のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-20-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-20-nagilog/</link>
       <pubDate>Sun, 20 Dec 2020 23:04:13 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-20-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-20-nagilog/</guid>
       <description>卒論かくなど</description>
     </item>
     
     <item>
       <title>2020-12-19のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-19-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-19-nagilog/</link>
       <pubDate>Sat, 19 Dec 2020 23:03:13 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-19-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-19-nagilog/</guid>
       <description>卒論かくなど</description>
     </item>
     
     <item>
       <title>2020-12-18のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-18-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-18-nagilog/</link>
       <pubDate>Sat, 19 Dec 2020 04:01:46 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-18-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-18-nagilog/</guid>
       <description>いろいろ積もってる気がするけど明日からがんばろう</description>
     </item>
     
     <item>
       <title>2020-12-17のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-17-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-17-nagilog/</link>
       <pubDate>Fri, 18 Dec 2020 04:44:07 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-17-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-17-nagilog/</guid>
       <description>ブロックチェーン雰囲気で理解したくなった</description>
     </item>
     
     <item>
       <title>2020-12-16のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-16-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-16-nagilog/</link>
       <pubDate>Thu, 17 Dec 2020 04:26:32 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-16-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-16-nagilog/</guid>
       <description>急にシステムを改良したい欲が強くなってきたので卒論書きながら改修していく</description>
     </item>
     
     <item>
       <title>2020-12-15のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-15-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-15-nagilog/</link>
       <pubDate>Wed, 16 Dec 2020 04:47:19 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-15-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-15-nagilog/</guid>
       <description>お兄ちゃん全然中身がないよ！</description>
     </item>
     
     <item>
       <title>2020-12-14のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-14-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-14-nagilog/</link>
       <pubDate>Tue, 15 Dec 2020 03:51:35 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-14-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-14-nagilog/</guid>
       <description>壊れてたtex環境を戻した
 vscodeの設定貼っとく
 &amp;#34;latex-workshop.view.pdf.viewer&amp;#34;: &amp;#34;tab&amp;#34;, &amp;#34;latex-workshop.latex.autoBuild.run&amp;#34;: &amp;#34;onFileChange&amp;#34;, &amp;#34;latex-workshop.latex.recipes&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;latexmk&amp;#34;] }, { &amp;#34;name&amp;#34;: &amp;#34;latexmk (latexmkrc)&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;latexmk_rconly&amp;#34;] }, { &amp;#34;name&amp;#34;: &amp;#34;latexmk (lualatex)&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;lualatexmk&amp;#34;] }, { &amp;#34;name&amp;#34;: &amp;#34;pdflatex ➞ bibtex ➞ pdflatex × 2&amp;#34;, &amp;#34;tools&amp;#34;: [&amp;#34;pdflatex&amp;#34;, &amp;#34;bibtex&amp;#34;, &amp;#34;pdflatex&amp;#34;, &amp;#34;pdflatex&amp;#34;] } ], &amp;#34;latex-workshop.latex.tools&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-synctex=1&amp;#34;, &amp;#34;-interaction=nonstopmode&amp;#34;, &amp;#34;-file-line-error&amp;#34;, &amp;#34;-pdfdvi&amp;#34;, &amp;#34;%DOC%&amp;#34; ] } ] vscodeはlatexmk使ってるのでそっちの設定も
@@ -74,121 +74,121 @@ vscodeの設定貼っとく
     
     <item>
       <title>2020-12-13のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-13-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-13-nagilog/</link>
       <pubDate>Mon, 14 Dec 2020 03:47:20 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-13-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-13-nagilog/</guid>
       <description>うーんだめだー</description>
     </item>
     
     <item>
       <title>2020-12-12のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-12-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-12-nagilog/</link>
       <pubDate>Sun, 13 Dec 2020 02:32:54 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-12-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-12-nagilog/</guid>
       <description>まだlinuxに環境うつしてないやつがあって仕方なくdocker for macでやってたけど重いつらい
 まぁいろいろ開いてるからdockerだけが悪いわけじゃないが</description>
     </item>
     
     <item>
       <title>2020-12-11のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-11-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-11-nagilog/</link>
       <pubDate>Fri, 11 Dec 2020 23:56:43 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-11-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-11-nagilog/</guid>
       <description>ガベージコレクションむずすぎる</description>
     </item>
     
     <item>
       <title>2020-12-10のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-10-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-10-nagilog/</link>
       <pubDate>Thu, 10 Dec 2020 23:24:20 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-10-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-10-nagilog/</guid>
       <description>apex精進部</description>
     </item>
     
     <item>
       <title>2020-12-09のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-09-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-09-nagilog/</link>
       <pubDate>Wed, 09 Dec 2020 23:57:27 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-09-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-09-nagilog/</guid>
       <description>毎日書いてはいるが中身がないの問題では？？？？</description>
     </item>
     
     <item>
       <title>2020-12-08のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-08-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-08-nagilog/</link>
       <pubDate>Tue, 08 Dec 2020 23:56:20 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-08-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-08-nagilog/</guid>
       <description>nodejsとか書いてた</description>
     </item>
     
     <item>
       <title>2020-12-07のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-07-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-07-nagilog/</link>
       <pubDate>Mon, 07 Dec 2020 23:58:13 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-07-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-07-nagilog/</guid>
       <description>ライブラリデバッグつらいねって一日だった
 php用でも中身がcだとつら</description>
     </item>
     
     <item>
       <title>2020-12-06のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-06-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-06-nagilog/</link>
       <pubDate>Sun, 06 Dec 2020 13:08:59 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-06-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-06-nagilog/</guid>
       <description> ガベージコレクション本を読んだ とりあえず1章だけ. 概要と用語の解説的なのだったけどちょっとん？ってなるところがあって勉強が足らんなってお気持ち  アルゴリズムへと進んで行くのでnagilogにまとめたい
  dchatプロジェクト少し進んだ  </description>
     </item>
     
     <item>
       <title>2020-12-05のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-05-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-05-nagilog/</link>
       <pubDate>Sat, 05 Dec 2020 23:55:50 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-05-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-05-nagilog/</guid>
       <description>hugoでよさげなもの見つけたのでhp作ってる なんで僕がしてるんだ感がでてきたのである程度で切り上げたい</description>
     </item>
     
     <item>
       <title>2020-12-04のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-04-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-04-nagilog/</link>
       <pubDate>Fri, 04 Dec 2020 23:57:27 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-04-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-04-nagilog/</guid>
       <description>wikiから画像落とせなくてぴえん もう素直にログインする</description>
     </item>
     
     <item>
       <title>2020-12-03のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-03-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-03-nagilog/</link>
       <pubDate>Thu, 03 Dec 2020 23:45:50 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-03-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-03-nagilog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020-12-02のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-02-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-02-nagilog/</link>
       <pubDate>Wed, 02 Dec 2020 23:53:23 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-02-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-02-nagilog/</guid>
       <description>お肉の日 なにも産めなかったが運用してるgrowiのバージョンアップしたら, share機能が使えるようになったので画像ダウンロードできそう んぎっくす側でIP制限かけたのでアプリ以外からは見れなくなったしセキュリティてきにもよきなはず</description>
     </item>
     
     <item>
       <title>2020-12-01のNagiLog</title>
-      <link>https://www.t29wuq.xyz/post/2020-12-01-nagilog/</link>
+      <link>https://t29wuq.github.io/post/2020-12-01-nagilog/</link>
       <pubDate>Tue, 01 Dec 2020 23:56:35 +0900</pubDate>
       
-      <guid>https://www.t29wuq.xyz/post/2020-12-01-nagilog/</guid>
+      <guid>https://t29wuq.github.io/post/2020-12-01-nagilog/</guid>
       <description>D-Blog-Engine終わる予定だったけどgrowiからapiで画像ファイルを落とせないっぽくて詰んでしまった&amp;hellip; 大本のソースのどこをいじれば使えるようになるかはだいたい分かるけどメンテの面で一切触れたくない、、 どうするか</description>
     </item>
     

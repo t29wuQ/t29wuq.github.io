@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on NagiLog</title>
-    <link>https://www.t29wuq.xyz/page/</link>
+    <link>https://t29wuq.github.io/page/</link>
     <description>Recent content in Pages on NagiLog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.t29wuq.xyz/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://t29wuq.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>$whoami</title>
-      <link>https://www.t29wuq.xyz/page/about/</link>
+      <link>https://t29wuq.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.t29wuq.xyz/page/about/</guid>
+      <guid>https://t29wuq.github.io/page/about/</guid>
       <description></description>
     </item>
     
